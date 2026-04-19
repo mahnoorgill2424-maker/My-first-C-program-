@@ -1,1 +1,6 @@
-# My-first-C-program-
+# My-first-C-program-#include <stdio.h>
+
+int main() {
+    printf("Hello, World!");
+    return 0;
+}
